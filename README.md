@@ -1,7 +1,5 @@
 # Exploring Forecasting
 
-This repo is me learning time series forecasting properly. Not skimming a tutorial and calling it done, but actually sitting with the problem, building things from scratch where it helps the intuition, and writing down what I found out along the way.
-
 The setup is a synthetic e-commerce dataset. Two years of daily order volume for a logistics operation, with a weekly rhythm, a yearly cycle, a steady growth trend, a Q4 holiday bump, and the occasional promo spike. I generated it on purpose so I would know the true structure and could check whether each model actually recovered it.
 
 ## Why I did this
