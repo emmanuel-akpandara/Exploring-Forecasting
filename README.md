@@ -6,8 +6,6 @@ The setup is a synthetic e-commerce dataset. Two years of daily order volume for
 
 I wanted to understand forecasting from the ground up instead of treating it as a black box. The plan was simple. Start by looking at the data with my own eyes, then build classical baselines, then move to a more flexible model, and at every step ask whether the extra complexity was actually paying for itself.
 
-The recurring lesson, and honestly the most useful one, is that fancier did not mean better. A well chosen classical model held its own against everything, and one of the "smart" automated tools picked a worse model than I did by hand.
-
 ## The journey
 
 ### Notebook 01, getting to know the data
